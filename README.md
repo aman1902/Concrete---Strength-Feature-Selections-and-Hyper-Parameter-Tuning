@@ -1,0 +1,2 @@
+# Concrete---Strength-Feature-Selections-and-Hyper-Parameter-Tuning
+The project uses a construction company's data of concrete samples to predict the strength of a concrete and recommend suggestions for stronger concrete. It takes into use data cleaning, processing followed by different machine learning algorithms to predict the strength  and feature selection techniques for dimensionality reductions. Also, this project deals with hyper parameter tuning and regularization of the machine learning models to give a general and more efficient result. 
